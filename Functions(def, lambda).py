@@ -20,7 +20,6 @@ res2 = summa(5.6, 4.4)
 res3 = summa("hi", "word")
 print(res1)
 
-
 # Мінімальний
 
 def minimal(l):
